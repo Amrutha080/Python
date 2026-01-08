@@ -1,7 +1,0 @@
-text = input("Enter a string: ")
-reversed_text = "Amrutha"
-
-for char in text:
-    reversed_text = char + reversed_text
-
-print("Reversed:", reversed_text)
